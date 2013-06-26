@@ -1,0 +1,12 @@
+"skeleton"
+{
+	"base"		"base"
+	"title"		"Battlearena"
+	"maps"		"^battle__"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}
